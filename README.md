@@ -1,0 +1,2 @@
+# Bitacora
+Proyecto de bitácora
